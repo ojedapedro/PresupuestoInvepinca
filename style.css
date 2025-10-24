@@ -45,7 +45,7 @@ header {
 
 .logo img {
     max-height: 80px;
-    width: auto;
+    width: 1200;
     object-fit: contain;
 }
 
